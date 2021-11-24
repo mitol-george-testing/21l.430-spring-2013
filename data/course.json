@@ -1,0 +1,36 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Art History"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5cb4e7c9-e7ad-8876-78c4-a48aea2f3820",
+      "7391b454-4dd0-b061-944a-b6a2e4be0c01"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Popular Culture and Narrative: Serial Storytelling",
+  "course_description": "Serial Storytelling examines the ways the passing and unfolding of time structures narratives in a range of media. From Rembrandt's lifetime of self-portraits to The Wire, Charles Dickens' Pickwick Papers to contemporary journalism and reportage, we will focus on the relationships between popular culture and art, the problems of evaluation and audience, and the ways these works function within their social context.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "CMS.920",
+  "primary_course_number": "21L.430",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
